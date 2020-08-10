@@ -2,7 +2,7 @@
 
 ## About
 
-This imaage is based on officcial PostgreSQL image but also contains `yandex-pgmigrator` tool.
+This image is based on official PostgreSQL image but in addition contains `yandex-pgmigrator` tool.
 
 ## Usage
 
